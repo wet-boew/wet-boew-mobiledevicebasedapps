@@ -1,4 +1,4 @@
-wet-boew-mobilelocalapps
-========================
+wet-boew-mobiledevicebasedapps
+==============================
 
-Locally-installed mobile application variants for the Web Experience Toolkit (WET)
+Device-based mobile application variants for the Web Experience Toolkit (WET)
